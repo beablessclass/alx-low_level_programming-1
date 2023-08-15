@@ -1,1 +1,1 @@
-Preprocessor a script that runs a C file through the preprocessor and save the result into another file
+Preprocessor, compiler, assembler, Name, Hello puts,Hello printf,Size is not grandeur, and territory does not make a nation, a script that runs a C file through the preprocessor and save the result into another file
